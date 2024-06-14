@@ -1,0 +1,1 @@
+# Myfirstwin32apptemplate
