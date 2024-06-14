@@ -1,1 +1,2 @@
 # Myfirstwin32apptemplate
+这是我的第一个Win32应用模板尝试，包含了一个基本的Win32应用的窗口示例模板，在window procedure函数中默认设定为topmost的windowposition
